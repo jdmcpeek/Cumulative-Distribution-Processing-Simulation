@@ -7,11 +7,6 @@
 // reach 1.0 because there is still a non-negligible chance of an occurence outside of the
 // x-axis bounds (on the outer levels of the standard deviation)
 
-// features to add:
-// 1. (done) the ability to alter the standard deviation. The plots should scale 
-//    accordingly. 
-// 2. code readability for reproducibility
-// 3. rewrite code to work outside of the KA development environment; use it as a showcase on //    Github
 
 int axis_x = 140;  // where the x-axis will be located for top graph
 int axis_y = 200;
